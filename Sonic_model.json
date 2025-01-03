@@ -1,8 +1,8 @@
 {
     "model_data":[
-        ["v2", "Sonic", "https://huggingface.co/Bredvige/Sonic2/resolve/main/Sonic.zip", "https://static.wikia.nocookie.net/sonic/images/a/a7/SXSG_Sonic.png"]
+        ["v2", "Sonic", "https://huggingface.co/WoomyPearl/RVC-Model-Palace/resolve/main/SonicRyanDrummondCurrent.zip", "https://static.wikia.nocookie.net/sonic/images/a/a7/SXSG_Sonic.png"]
     ],
     "list": [
-        "Sonic",
+        "Sonic"
     ]
 }
